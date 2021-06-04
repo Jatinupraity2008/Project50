@@ -17,7 +17,7 @@ body{
 .grid{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .grid img{
@@ -29,8 +29,9 @@ body{
     
     border-radius: 20px;
     background-color: white;
-    width: 310px;
+    width: 250px;
     font-family: sans-serif;
+    
     
     
 }
